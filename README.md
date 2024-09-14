@@ -1,3 +1,7 @@
+
+![screencapture-localhost-5173-2024-09-14-10_44_40](https://github.com/user-attachments/assets/9d902cd1-9759-4218-9270-030a8f2ca6cf)
+
+
 # WeatherNow
 
 WeatherNow is a React application that provides real-time weather updates for any city using the OpenWeatherMap API.
